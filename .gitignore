@@ -1,0 +1,12 @@
+# no backup files
+data/original/
+
+# python
+__pycache__
+*.pyc
+
+tmp/
+
+# passes
+.env
+
